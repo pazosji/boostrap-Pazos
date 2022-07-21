@@ -1,0 +1,26 @@
+*{margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;}
+
+
+.container-fluid{background-color: rgb(6, 20, 61);}
+
+.slogan{color: whitesmoke;
+display: flex;
+align-items: center;}
+
+
+.logo{border: solid 5px rgb(90, 18, 90);}
+.navbar-brand{color: whitesmoke;}
+.nav-link{color: whitesmoke;}
+
+main{background-color: black;}
+
+.piePagina{background-color: rgb(0, 0, 0);}
+.piePagina h6{color: whitesmoke;}
+
+
+
+
+
+ 
